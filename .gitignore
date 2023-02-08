@@ -3,4 +3,4 @@
 package-lock.json
 
 # production
-#/build
+/build
